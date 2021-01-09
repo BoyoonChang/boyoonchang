@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a second year Ph.D. student at the University of Oregon. :evergreen_tree:
+I'm a second year Ph.D. student in Economics at the University of Oregon. :evergreen_tree:
 
 - 🔭 I’m currently working on fun stuff.
 - 🌱 I’m currently learning economic theories and econometrics.
