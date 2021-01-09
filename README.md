@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a second year Ph.D. student at the University of Oregon. :tada: 
 
 - 🔭 I’m currently working on econometric methodologies.
 - 🌱 I’m currently learning economic theories and econometrics.
