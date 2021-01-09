@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with coding using python or javascript.
 - 💬 Ask me about anything!
 - 📫 How to reach me: bchang@uoregon.edu
-- ⚡ Fun fact: I love learning about new technologies. 
+- ⚡ Fun fact: I love discovering and learning new technologies!  
