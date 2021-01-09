@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on econometric methodologies.
 - 🌱 I’m currently learning economic theories and econometrics.
 - 👯 I’m looking to collaborate on any projects related to economics and everything else.
