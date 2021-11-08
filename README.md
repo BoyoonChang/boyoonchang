@@ -15,7 +15,7 @@ Portfolio: https://boyoon-c.github.io/portfolio
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bchang2&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Boyoon's GitHub Stats" />
 </a>
 
-### With username: boyoon-c, a software engineer
+### With username: boyoon-c, as a software engineer
 <a href="https://github.com/boyoon-c/boyoon-c">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyoon-c&hide=html,css,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
