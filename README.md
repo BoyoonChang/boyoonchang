@@ -12,12 +12,12 @@ Portfolio: https://boyoon-c.github.io/portfolio
 ## &#x1f4c8; GitHub Stats
 
   
-### With username: bchang2, as an economist
-<a href="https://github.com/boyoonchang/boyoonchang">
+### With username: BoyoonChang, as an economist
+<a href="https://github.com/BoyoonChang/boyoonchang">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bchang2&hide=html,css,tex&line_height=27&title_color=1d1f21&text_color=404040&icon_color=2bbc8a&bg_color=f7f6f6&langs_count=3" />
 </a>
 
-<a href="https://github.com/boyoonchang/boyoonchang">
+<a href="https://github.com/BoyoonChang/boyoonchang">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bchang2&show_icons=true&line_height=27&count_private=true&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&title_color=1d1f21&text_color=404040&icon_color=2bbc8a&bg_color=f7f6f6" alt="Boyoon's GitHub Stats" />
 </a>
 
