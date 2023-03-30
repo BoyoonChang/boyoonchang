@@ -1,5 +1,5 @@
   
-## Hi! 🙋
+## Hi there! 🙋‍♀️
 
 I'm a Ph.D. candidate in Economics at the University of Oregon. :evergreen_tree:
 
